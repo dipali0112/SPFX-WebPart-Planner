@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "planner",
+    "libraryId": "209b505f-d8fa-4124-ba72-c5dea33d0846",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "planner",
+    "solutionShortDescription": "planner description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
